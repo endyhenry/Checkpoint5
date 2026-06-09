@@ -18,7 +18,7 @@ function C() {
 
 function CE() {
     // Apagar tudo
-    display = '';
+    display = "";
     document.getElementById('resultado').textContent = display;
 }
 
